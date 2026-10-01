@@ -28,7 +28,7 @@ function Header() {
 
       <div className="hero-card">
         <div className="profile-circle">
-          SB
+          SD
         </div>
 
         <h3>Sonali Das</h3>
