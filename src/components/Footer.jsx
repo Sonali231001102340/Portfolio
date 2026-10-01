@@ -2,11 +2,11 @@ function Footer() {
   return (
     <footer className="footer">
       <div className="footer-logo">
-        SB
+        SD
       </div>
 
       <p>
-        © {new Date().getFullYear()} Souvik Baidya. All Rights Reserved.
+        © {new Date().getFullYear()} Sonali Das. All Rights Reserved.
       </p>
 
       <p className="footer-tagline">
